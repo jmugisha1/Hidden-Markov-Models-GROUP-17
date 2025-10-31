@@ -1,0 +1,8 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.zip
+*.tar
+*.tar.gz
+sample_data/
+node_modules/
