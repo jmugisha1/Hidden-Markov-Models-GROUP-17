@@ -5,7 +5,6 @@ This project identifies human activity states (*standing, walking, jumping, stil
 A Hidden Markov Model (HMM) was implemented to infer hidden activities from observed sensor features, capturing temporal dependencies between movement patterns.
 
 
-
 ##  Repository Structure
 
 ##  Workflow Summary
@@ -95,4 +94,4 @@ Key observations:
 ##  Acknowledgements
 Assignment: *Formative 2 – Hidden Markov Models (Modeling Human Activity States)*  
 African Leadership University – Machine Learning Techniques I (2025)
-"""
+
